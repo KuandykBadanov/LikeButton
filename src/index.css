@@ -1,0 +1,22 @@
+.button {
+  font-size: 50px;
+  width: 280px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  display: block;
+  margin: 150px auto;
+  box-shadow: 10px 5px 5px gray;
+}
+
+.buttonLike {
+  background-color: rgb(112, 116, 235);
+  border: 1px solid blue;
+}
+
+.buttonDisLike {
+  background-color: rgb(229, 130, 130);
+  border: 1px solid brown;
+}
